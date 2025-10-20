@@ -1,11 +1,11 @@
 #arimathic operaters
 
-# a = 7
+a = 7
 
-# b = 4
+b = 4
 
-# c = a + b
-# print(c)
+c = a + b
+print(c)
 
 # assignment operators
 a =4-2 # assignment 4.2 in a
